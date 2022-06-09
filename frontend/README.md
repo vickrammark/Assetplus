@@ -1,21 +1,5 @@
 # Getting Started
 
-## Installing git
-`Installing in windows` - https://gitforwindows.org/\
-
-`Installing in Mac`\
-Install homebrew if you don't already have it, then:
-`$ brew install git`
-
-MacPorts
-Install MacPorts if you don't already have it, then:
-`$ sudo port install git`
-
-`Installing in Linux` - https://git-scm.com/download/linux
-## Cloning the repo 
-Run the following code in terminal\
-`git clone https://gitlab.com/asmark031/react-assignment-starter.git`
-
 ## Installing all the packages
 
 ### `npm i`
