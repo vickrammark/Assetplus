@@ -1,7 +1,14 @@
-# This starter project contains both the frontend and backend starter project 
+# AssetPlus Assignment starter
+## Cloning the Repo
 
-### 1. Frontend (React with Js)
- Proceed by following the instructions on README.md inside frontend folder
+    $ git clone git@gitlab.com:asmark031/assetplus-assignment.git
+    $ cd assetplus-assignment
 
-### 2. Backend (Node with Js)
- Proceed by following the instructions on README.md inside backend folder
+## Getting Started
+This project contains both front-end and back-end code
+- `frontend/`
+    - Uses ReactJS
+    - Check `frontend/README.md` for more details
+- `backend/` 
+    - Uses Node, Express, Mongoose
+    - Check `backend/README.md` for more details
