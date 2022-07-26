@@ -9,8 +9,8 @@ You need to install NodeJS and MongoDB on your system.
 
 
 
-## Install nodemon globally 
-    npm install -g nodemon
+## Installing packages
+    `npm i`
 
 ## Running the project
-    nodemon app.js
+    `npm start`
