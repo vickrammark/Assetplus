@@ -7,9 +7,9 @@ const cors = require('cors')
 mongoose.connect("mongodb://localhost:27017/assignment");
 
 app.use(cors());
+app.use(express.json());
 
 app.use(require("./routes"));
-app.use(express.json())
 
 app.listen(port, () => {
     console.log(`Listening on port: ${port}`)
