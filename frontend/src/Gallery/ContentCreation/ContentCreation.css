@@ -1,0 +1,8 @@
+.content-creation-detail-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.content-creation-form-container{
+    flex: 0.5;
+}

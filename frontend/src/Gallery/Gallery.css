@@ -1,0 +1,13 @@
+.gallery-outer-container{
+    padding: 8px;
+}
+.gallery-header-divider{
+    border-bottom: 1px solid #ccc;
+}
+.gallery-post-outer-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}

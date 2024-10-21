@@ -1,0 +1,10 @@
+.header-outer-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+}
+.header-add-icon-container{
+    cursor: pointer;
+}

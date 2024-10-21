@@ -3,9 +3,10 @@ var mongoose = require('mongoose');
 const app = express()
 const port = 8000
 const cors = require('cors')
+const connectDB=require('./DBConnect/ConnectDB');
 
-mongoose.connect("mongodb://localhost:27017/assignment");
-
+// mongoose.connect("mongodb://localhost:27017/assignment");
+connectDB();
 app.use(cors());
 app.use(express.json());
 
